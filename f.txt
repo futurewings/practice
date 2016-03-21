@@ -1,1 +1,1 @@
-I am Yuliang and I like cake.This is our first commit.
+I am a student in Wayne State University. My name is Yuliang and I like cake.This is our first commit.
